@@ -1,1 +1,2 @@
-This are test file
+This are test file.
+I will learn new things regarding pull and commit.
